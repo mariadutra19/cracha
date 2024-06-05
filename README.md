@@ -33,3 +33,10 @@ Cracha.fxl
 
 ![image](https://github.com/mariadutra19/cracha/assets/156721876/caffe48e-5773-41fe-ad41-7582e46b4b6b)
 
+
+Imagem da tela : 
+
+
+
+![image](https://github.com/mariadutra19/cracha/assets/156721876/ce945d65-cbd5-429b-8a52-47fb62396f0b)
+
