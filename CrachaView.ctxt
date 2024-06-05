@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CrachaView
+comment1.params=
+comment1.target=CrachaView()
+comment2.params=controller
+comment2.target=void\ setController(CrachaController)
+comment3.params=primaryStage
+comment3.target=void\ start(javafx.stage.Stage)
+numComments=4

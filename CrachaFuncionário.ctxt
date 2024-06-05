@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CrachaFuncion\u00E1rio
+comment1.params=nome\ cargo\ id
+comment1.target=CrachaFuncion\u00E1rio(java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=void\ registrarEntrada()
+comment3.params=
+comment3.target=void\ registrarSaida()
+comment4.params=
+comment4.target=long\ calcularHorasNoEstabelecimento()
+numComments=5

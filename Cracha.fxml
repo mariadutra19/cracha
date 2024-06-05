@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<Pane fx:controller="BadgeController" xmlns:fx="http://javafx.com/fxml">
+    <children>
+        <Label text="Nome:" layoutX="14.0" layoutY="14.0" />
+        <TextField fx:id="textFieldName" layoutX="60.0" layoutY="10.0" />
+
+        <Label text="Cargo:" layoutX="14.0" layoutY="44.0" />
+        <TextField fx:id="textFieldPosition" layoutX="60.0" layoutY="40.0" />
+
+        <Label text="ID:" layoutX="14.0" layoutY="74.0" />
+        <TextField fx:id="textFieldID" layoutX="60.0" layoutY="70.0" />
+
+        <Button text="Cadastrar" layoutX="14.0" layoutY="104.0" onAction="#botaoCadastrarClicado" />
+        <Button text="Check-In" layoutX="100.0" layoutY="104.0" onAction="#botaoCheckInClicado" />
+        <Button text="Check-Out" layoutX="160.0" layoutY="104.0" onAction="#botaoCheckOutClicado" />
+        <Button text="Limpar" layoutX="240.0" layoutY="104.0" onAction="#botaoLimparClicado" />
+
+        <Label fx:id="labelValidation" layoutX="14.0" layoutY="144.0" />
+        <Label fx:id="labelHours" layoutX="14.0" layoutY="174.0" />
+    </children>
+</Pane>
